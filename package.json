@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
     "@types/node": "^18.0.0",
+    "bootstrap": "^3.4.1",
     "chai": "^4.3.6",
     "cucumber": "^6.0.7",
     "cucumber-html-reporter": "^5.5.0",
